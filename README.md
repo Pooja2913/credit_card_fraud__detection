@@ -28,13 +28,11 @@ Matplotlib
 Scikit-learn
 
 📈 Dataset
-Public credit card transaction dataset
+Public credit card transaction dataset from kaggle with 284807 rows and 31 columns
 
 Contains both legitimate and fraudulent transactions
 
-Imbalanced dataset (fraud cases are rare)
 
-(Note: Replace this with your actual dataset name or link if you used a specific dataset.)
 
 💡 Results
 Built a model that accurately identifies fraudulent transactions.
